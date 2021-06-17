@@ -1,5 +1,5 @@
 # IOT-Smart-Home
-The system allows the users to turn any electrical appliance on/off through voice commands from an Andorid device.
+The system allows the user to turn any electrical appliance on/off through voice commands from an Andorid device.
 ## INTRODUCTION
 * Employs an ESP8266 Wifi Module along with an Arduino Uno R3, interfaced with google voice assistant on an android device via the IoT platform Thingspeak & integrated the entire system through the online web service IFTTT.
 * Implemented by giving commands to a voice assisted AI to turn electrical appliances connected to the Arduino on/off via a relay
